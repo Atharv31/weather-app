@@ -1,5 +1,0 @@
-yarn build
-
-yarn global serve (if required)
-
-yarn serve    something will run on localhost if not in server
